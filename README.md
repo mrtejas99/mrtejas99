@@ -3,9 +3,8 @@
 <a href="https://github.com/mrtejas99" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://askubuntu.com/users/890892/tejas-lotlikar" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>  
+
+<a href="https://stackexchange.com/users/14674132"><img src="https://stackexchange.com/users/flair/14674132.png" width="208" height="58" alt="profile for Tejas Lotlikar on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Tejas Lotlikar on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
 ### Glad to see you here!  
 I’m a full-time student at Goa University pursuing my MCA degree  
@@ -51,13 +50,6 @@ I’m a full-time student at Goa University pursuing my MCA degree
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrtejas99&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>  
-
-<br/> 
- 
-<a href="https://stackexchange.com/users/14674132"><img src="https://stackexchange.com/users/flair/14674132.png" width="208" height="58" alt="profile for Tejas Lotlikar on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Tejas Lotlikar on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
-
-</br>
-</br>
 
 
 <div>
